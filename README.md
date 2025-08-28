@@ -61,3 +61,8 @@ Each part of the assignment should be clearly commented and organized.
 * DOM manipulation that improves interactivity
 * Clean structure and consistent indentation
 
+---
+
+### My Page
+
+![alt text](image.png)
